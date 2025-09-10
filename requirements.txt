@@ -1,5 +1,6 @@
-fastapi
-pydantic
-joblib
-psycopg2
+Flask
+pandas
+supabase
 uvicorn
+scikit-learn
+joblib
