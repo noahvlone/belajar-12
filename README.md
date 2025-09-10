@@ -25,4 +25,4 @@ A Flask web application that predicts diabetes using machine learning. The app p
 1. Clone the repository
 ```bash
 git clone <repository-url>
-cd AI-Experiments21
+cd belajar-12
