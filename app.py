@@ -87,5 +87,6 @@ def predict_supabase():
         return "Data pasien tidak ditemukan."
 
 if __name__ == "__main__":
-     app.run(host="127.0.0.1", port=4100, debug=True)
+     app.run(host="82.197.71.171", port=4100, debug=True)
+
 
